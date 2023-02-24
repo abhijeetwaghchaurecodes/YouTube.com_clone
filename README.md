@@ -1,2 +1,2 @@
-# YouTube.com_clone
-hey, I've worked on the Front-END required for redesigning the YouTube.com. Let me know if you like it, also share your ideas too. :)
+# Youtube.com_Clone
+Well, this is just a basic Front-END for YouTube.com and see if you like it. Also, you're free to make changes and give suggestions on this. :)
